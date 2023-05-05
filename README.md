@@ -1,4 +1,6 @@
-
+**TODOs** that are related to document structure:
+- [ ] In color palette section, refactor hexadecimal colors to images that represent colors
+- [ ] In social media section: divide section to social media platforms
 
 
 ## Brand Checklist
